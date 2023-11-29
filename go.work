@@ -1,9 +1,10 @@
 go 1.21.4
 
 use (
-	./email-checker-tool
-	./bookstore
-	./movies-crud
 	./basic-server
+	./bookstore
+	./email-checker-tool
+	./movies-crud
+	./slack-file-bot
 	./stock-scraper
 )
