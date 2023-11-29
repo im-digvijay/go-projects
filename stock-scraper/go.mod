@@ -1,4 +1,4 @@
-module go-stock-scraper
+module stock-scraper
 
 go 1.21.4
 

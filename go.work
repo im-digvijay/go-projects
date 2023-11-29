@@ -5,5 +5,5 @@ use (
 	./bookstore
 	./movies-crud
 	./basic-server
-	./go-stock-scraper
+	./stock-scraper
 )
