@@ -2,7 +2,7 @@ go 1.21.4
 
 use (
 	./email-checker-tool
-	./go-bookstore
+	./bookstore
 	./go-movies-crud
 	./go-server
 	./go-stock-scraper

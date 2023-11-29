@@ -1,10 +1,10 @@
 package controllers
 
 import (
+	"bookstore/pkg/models"
+	"bookstore/pkg/utils"
 	"encoding/json"
 	"fmt"
-	"go-bookstore/pkg/models"
-	"go-bookstore/pkg/utils"
 	"net/http"
 	"strconv"
 
