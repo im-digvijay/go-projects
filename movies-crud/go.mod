@@ -1,4 +1,4 @@
-module go-movies-crud
+module movies-crud
 
 go 1.21.4
 
