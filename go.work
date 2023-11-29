@@ -4,6 +4,6 @@ use (
 	./email-checker-tool
 	./bookstore
 	./movies-crud
-	./go-server
+	./basic-server
 	./go-stock-scraper
 )
