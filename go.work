@@ -5,6 +5,7 @@ use (
 	./bookstore
 	./email-checker-tool
 	./movies-crud
+	./slack-age-bot
 	./slack-file-bot
 	./stock-scraper
 )
