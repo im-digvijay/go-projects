@@ -7,5 +7,6 @@ use (
 	./movies-crud
 	./slack-age-bot
 	./slack-file-bot
+	./slack-test
 	./stock-scraper
 )

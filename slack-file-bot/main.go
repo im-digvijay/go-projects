@@ -8,6 +8,7 @@ import (
 )
 
 func main() {
+	os.Setenv("SLACK_BOT_TOKEN", "xoxb-bot-token")
 	api := slack.New(os.Getenv("SLACK_BOT_TOKEN"))
 	channels := []string{os.Getenv("CHANNEL_ID")}
 	files := []string{"stocks.csv"}
