@@ -9,4 +9,5 @@ use (
 	./slack-file-bot
 	./slack-test
 	./stock-scraper
+	./weather
 )
