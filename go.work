@@ -4,6 +4,7 @@ use (
 	./basic-server
 	./bookstore
 	./discord-ping
+	./docker-test
 	./email-checker-tool
 	./movies-crud
 	./slack-age-bot
