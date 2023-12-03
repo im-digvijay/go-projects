@@ -3,6 +3,7 @@ go 1.21.4
 use (
 	./basic-server
 	./bookstore
+	./discord-ping
 	./email-checker-tool
 	./movies-crud
 	./slack-age-bot
